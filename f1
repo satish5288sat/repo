@@ -1,5 +1,15 @@
+<<<<<<< HEAD
+hi hello world
+
+   int = 200;
+=======
 hi hello world 
    
+<<<<<<< HEAD
    int = 200;
+=======
+   int = 100;
+>>>>>>> dev
+>>>>>>> main
 
 
