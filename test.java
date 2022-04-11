@@ -1,4 +1,5 @@
 #!grrovy
+def=fail
 def=sucess
 def=error
 
