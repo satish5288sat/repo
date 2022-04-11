@@ -1,3 +1,7 @@
+#!grrovy
+def=sucess
+def=error
+
 pipeline {
     agent any
 
